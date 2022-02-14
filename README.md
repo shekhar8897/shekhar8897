@@ -5,8 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhar8897" alt="shekhar8897" /></a> </p>
 
+- 🔭 I’m currently working on **Timesheet management**
+
+- 🌱 I’m currently learning **NestJs,Kafka**
+
+- 💬 Ask me about **React,Javascript,Next.js,Node.js,Flutter**
+
+- 📫 How to reach me **shekhar8897@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shekhar8897/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shekhar8897/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:12873932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:12873932" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shekhar8897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shekhar8897" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucu4qloajnabbbydmfc9_wpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucu4qloajnabbbydmfc9_wpq" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/shekhar97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shekhar97" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/shekhar8897/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shekhar8897/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shekhar8897/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shekhar8897/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
