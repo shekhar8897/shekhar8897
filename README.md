@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shekhar S</h1>
-<h3 align="center">Fluttering on Node and Reacting Angularly.</h3>
+<h3 align="center">Fluttering on Node and Reacting Angularly</h3>
 
 - 🔭 I’m currently working on **Timesheet management**
 
