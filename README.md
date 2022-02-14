@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shekhar S</h1>
-<h3 align="center">Fluttering on Node and Reacting Angularly.</h3>
+<h3 align="center">Fluttering on Node and Reacting Angularly</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhar8897&label=Profile%20views&color=0e75b6&style=flat" alt="shekhar8897" /> </p>
 
