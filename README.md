@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhar8897&label=Profile%20views&color=0e75b6&style=flat" alt="shekhar8897" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhar8897" alt="shekhar8897" /></a> </p>
-<img align="right" alt="loading..." width="400" src="D:\undraw_Programming_re_kg9v.png"/>
+<img src="https://cdn.dribbble.com/users/2356083/screenshots/17507638/media/805b260cf6809e327e7ad924d9cefe3c.png"  width="450" align="right"/>
 
 - 🔭 I’m currently working on **Timesheet management**
 
