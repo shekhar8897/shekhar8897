@@ -1,5 +1,5 @@
 <img src="https://cdn.dribbble.com/users/2356083/screenshots/17507638/media/805b260cf6809e327e7ad924d9cefe3c.png"  width="450" align="right"/>
-<h1 align="center"><b>Hi 👋, I'm Shekhar S</b></h1>
+<h1 align="center" style="color:red"><b>Hi 👋, I'm Shekhar S</b></h1>
 <h3 align="center" >Fluttering on Node and Reacting Angularly</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhar8897&label=Profile%20views&color=0e75b6&style=flat" alt="shekhar8897" /> </p>
