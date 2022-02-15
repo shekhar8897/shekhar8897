@@ -1,6 +1,6 @@
-<img src="https://cdn.dribbble.com/users/2356083/screenshots/17515481/media/d7cbdeb016cb81c1970721c15c338164.png" alt="banner" />
-<h1 align="center">Hi 👋, I'm Shekhar S</h1>
-<h3 align="center">Fluttering on Node and Reacting Angularly</h3>
+
+<h1 align="center">Hello 👋, I'm Shekhar S</h1>
+<h2 align="center">Fluttering on Node and Reacting Angularly</h2>
 
 - 🔭 I’m currently working on **Timesheet management**
 
