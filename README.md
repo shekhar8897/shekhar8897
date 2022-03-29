@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently learning **NestJs,Kafka,Solidity**
 
-- 🔭 Ask me about **MERN,Flutter,Astrophysics**
+- 🔭 Ask me about **MERN,Flutter**
 
 - 📫 How to reach me **shekhar8897@gmail.com**
 
