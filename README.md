@@ -4,7 +4,7 @@
 
 - ☄️ I’m currently working on **Timesheet management**
 
-- 🚀 I’m currently learning **NestJs,Kafka,Solidity**
+- 🚀 I’m currently learning **Kafka,Solidity**
 
 - 🔭 Ask me about **MERN,Flutter**
 
