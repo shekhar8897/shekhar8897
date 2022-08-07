@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 🧑🏻‍🚀, I'm Shekhar S</h1>
 <h2 align="center">Fluttering on Node and Reacting Angularly</h2>
-
+<br>
 - ☄️ I’m currently working on **Timesheet management**
 
 - 🚀 I’m currently learning **Kafka,Solidity**
@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **shekhar8897@gmail.com**
 
+<br>
 ## 📢 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/shekhar8897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar8897" height="30" width="40" /></a>
