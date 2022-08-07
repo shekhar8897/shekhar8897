@@ -8,7 +8,7 @@
 - 🔭 Ask me about **MERN,Flutter**
 
 - 📫 How to reach me **shekhar8897@gmail.com**
-- <p align="center"><img src="./images/gif/Developer.gif" width="200px"/></p>
+
 <br><br/>
 ## 📢 Connect with me
 ### 👉 Front-end
@@ -82,7 +82,7 @@
 
 ## ⚙️ Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssshashank&show_icons=true&locale=en&theme=algolia" alt="ssshashank" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ssshashank&show_icons=true&locale=en&theme=algolia" alt="ssshashank" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssshashank&theme=algolia&hide_border=true" alt="ssshashank" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssshashank&theme=algolia&hide_border=true" alt="ssshashank" />
 </p>
