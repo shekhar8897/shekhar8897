@@ -81,8 +81,8 @@
 </p>
 
 ## ⚙️ Stats
-<p align="center">
+<div style="display:flex">
 <img  src="https://github-readme-stats.vercel.app/api?username=ssshashank&show_icons=true&locale=en&theme=algolia" alt="ssshashank" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssshashank&theme=algolia&hide_border=true" alt="ssshashank" />
-</p>
+</div>
