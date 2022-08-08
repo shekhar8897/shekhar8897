@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone 🧑🏻‍🚀, I'm Shekhar S</h1>
 <h2 align="center">Fluttering on Node and Reacting Angularly</h2>
 
-- ☄️ I’m currently working on **Timesheet management**
+- ☄️ I’m currently working on **Chatting application**.
 
 - 🚀 I’m currently learning **Kafka,Solidity**
 
