@@ -3,7 +3,7 @@
 
 - ☄️ I’m currently working on **Chatting application**.
 
-- 🚀 I’m currently learning **Kafka,NestJS, BunJS**
+- 🚀 I’m currently learning **Kafka,NestJS**
 
 - 🔭 Ask me about **MERN,Flutter**
 
