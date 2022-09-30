@@ -7,7 +7,7 @@
 
 - 🔭 Ask me about **MERN,Flutter**
 
-- 📫 How to reach me **shekhar8897@gmail.com**
+- 📫 How to reach me **shekharshashank97@gmail.com**
 
 <br><br/>
 ## 📢 Connect with me
