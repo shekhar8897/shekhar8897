@@ -1,11 +1,11 @@
 <h1 align="center">Hello everyone 🧑🏻‍🚀, I am Shekhar S</h1>
-<h2 align="center">Fluttering on Nest and Reacting Angularly</h2>
+<h2 align="center">Fluttering on NestJS & Reacting Angularly</h2>
 
-- ☄️ I’m currently working on **Chatting application**.
+- ☄️ I’m currently working on **Breeze**.
 
 - 🚀 I’m currently learning **Kafka,NestJS**
 
-- 🔭 Ask me about **MERN,Flutter**
+- 🔭 Ask me about **MERN, Flutter, Typescipt**
 
 - 📫 How to reach me **shekharshashank97@gmail.com**
 
