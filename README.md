@@ -3,7 +3,7 @@
 
 - ☄️ I’m currently working on **Breeze**.
 
-- 🚀 I’m currently learning **Kafka,NestJS**
+- 🚀 I’m currently learning **Kafka,NestJS,Distributed Systems**
 
 - 🔭 Ask me about **MERN, Flutter, Typescipt**
 
