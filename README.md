@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently learning **Kafka,NestJS,Distributed Systems**
 
-- 🔭 Ask me about **MERN, Flutter, Typescript**
+- 🔭 Ask me about **MERN, Flutter, Typescript, ORM **
 
 - 📫 How to reach me **shekhar8897@gmail.com**
 
