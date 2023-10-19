@@ -84,12 +84,15 @@
 <div style="display:flex;flex-direction:row">
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=ssshashank&show_icons=true&locale=en&theme=algolia" alt="ssshashank" /> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssshashank&theme=algolia&hide_border=true" alt="ssshashank" />
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssshashank&theme=algolia&hide_border=true" alt="ssshashank" />
 </div>
-    
-<p align="center" >   
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  <p align="center" >   
   <img src="https://profile-counter.glitch.me/kritical0613/count.svg" />  
 </p>
+</div>
+    
+
 </div>
