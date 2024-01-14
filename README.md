@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 🧑🏻‍🚀, I am M1000</h1>
+<h1 align="center">Hello everyone 🧑🏻‍🚀, I am Shekhar</h1>
 <h2 align="center">Fluttering on NestJS & Reacting Angularly</h2>
 
 - ☄️ I’m currently working on **Breeze**.
