@@ -7,8 +7,6 @@
 
 - 🔭 Ask me about **MERN, Flutter, Typescript, ORM **
 
-- 📫 How to reach me **shekhar8897@gmail.com**
-
 <br><br/>
 ## 📢 Connect with me
 ### 👉 Front-end
